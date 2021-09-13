@@ -29,6 +29,7 @@ For pipenv you will not see any `(venv)` in front of the propt.*
 
 4. Once `pip` has finished downloading the dependencies:
 ```sh
+(venv)$ cd src
 (venv)$ python manage.py makemigrations
 (venv)$ python manage.py migrate
 (venv)$ python manage.py runserver
