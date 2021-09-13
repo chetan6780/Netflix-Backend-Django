@@ -1,4 +1,5 @@
 # Netflix-Backend-Django
+<<<<<<< HEAD
 ## Set up on local machine
 
 1. The first thing to do is to clone the repository:
@@ -31,3 +32,6 @@ For pipenv you will not see any `(env)` in front of the propt.*
 (env)$ python manage.py runserver
 ```
 The application should be running on `http://127.0.0.1:8000/`
+=======
+![image](https://user-images.githubusercontent.com/62825092/133116839-17201a14-a2c2-4c59-b2e5-1a2a8f4904f7.png)
+>>>>>>> 1bcf34c80f90660df44e9287bf73c2370195ddbf
